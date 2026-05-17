@@ -1,6 +1,15 @@
-def calculate_sum(a, b):
-    return a + b
+# Для примера работы линтера и форматтера
 
-
-result = calculate_sum(2, 3)
-print(result)
+# import os
+# import sys
+# import math
+#
+# def calculateSum( a,b ):
+#     x = 10
+#     return a+b
+#
+# def greet(name):
+#     print( "Hello, " + name )
+#
+# result=calculateSum(2,3)
+# print(result)
