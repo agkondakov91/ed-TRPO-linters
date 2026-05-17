@@ -1,6 +1,10 @@
-def main():
-    print("Hello from ed-trpo-linters!")
+def calculate_sum(a, b):
+    return a + b
 
 
-if __name__ == "__main__":
-    main()
+def greet(name):
+    print("Hello, " + name)
+
+
+result = calculate_sum(2, 3)
+print(result)
